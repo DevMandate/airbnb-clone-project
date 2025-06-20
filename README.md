@@ -65,6 +65,37 @@ Below are the main roles involved in this project and what each is responsible f
 | **Scrum Master** | Helps the team follow Agile methods, removes blockers, and keeps sprints organized and on track. |
 
 
+## UI Component Patterns
+
+Below are the key UI components planned for the AirBnB Clone project:
+
+- **Navbar**
+  - Sits at the top of the page.
+  - Includes links like Home, Listings, Login/Signup, and Search.
+  - Responsive on mobile and desktop.
+
+- **Property Card**
+  - Used to display each property in the listings view.
+  - Shows image, title, location, price, and a quick action (e.g., view details or favorite).
+
+- **Listing Detail View**
+  - Full-page component showing images, description, amenities, calendar, and booking button.
+
+- **Footer**
+  - Appears at the bottom of every page.
+  - Contains links to contact, social media, and terms of use.
+
+- **Search Filter Bar**
+  - Allows users to filter listings by location, price, type, and dates.
+
+- **Booking Form**
+  - Collects check-in/check-out dates and guest info for booking.
+
+These components will be reused across different pages to keep the design clean and consistent.
+
+
+
+
 
 ## Author
 - Caleb Wafula
