@@ -49,6 +49,22 @@ A user-friendly design in a booking system is crucial for:
 - Enhancing accessibility for users of all backgrounds and devices.
 
 
+## Project Roles and Responsibilities
+
+Below are the main roles involved in this project and what each is responsible for:
+
+| Role                | Responsibilities |
+|---------------------|------------------|
+| **Project Manager** | Oversees the whole project, manages timelines, assigns tasks, and ensures smooth communication across the team. |
+| **Frontend Developers** | Build the user interface using HTML, CSS, JavaScript. Make sure the app looks good and works well for users. |
+| **Backend Developers** | Handle server-side logic using Python (Flask), work with databases, and build APIs that connect frontend to data. |
+| **Designers** | Create wireframes, mockups, and visual designs for the app to ensure a clean and user-friendly layout. |
+| **QA/Testers** | Test the app to find bugs, ensure features work as expected, and help maintain quality. |
+| **DevOps Engineers** | Set up deployment, servers, and monitor the live app. Ensure everything runs smoothly in production. |
+| **Product Owner** | Defines the project goals and features based on user needs. Prioritizes tasks for the team. |
+| **Scrum Master** | Helps the team follow Agile methods, removes blockers, and keeps sprints organized and on track. |
+
+
 
 ## Author
 - Caleb Wafula
